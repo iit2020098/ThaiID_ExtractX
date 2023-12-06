@@ -1,4 +1,4 @@
-# Thai_National_idcard_Text_Detection
+# Thai_IDcard_Text_Detection
 <p>Welcome to the project! This project demonstrates a chain of functionality where Data Extraction from Thai Id card, Data Cleaning and storing it to database followed bt CRUD operations</p>
 <h2>Table of Contents</h2>
     <ul>
